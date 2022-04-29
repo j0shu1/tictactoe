@@ -1,4 +1,16 @@
-﻿// what needs to get done here?
+﻿/*
+    01 Ponder & Prove: Developer
+    Title: tictactoe
+    Author: Joshua Johnson
+    Description:
+                Play a text-based game of tic-tac-toe!
+                This program also includes detecting and dealing with improper entries by the user:
+                    If the user enters a string, they are simply prompted again to enter a number.
+                    If they enter a number outside of the expected range or in a place that is
+                        already taken, they will be prompted again for a response.
+*/
+
+// what needs to get done here?
 // functions:
 //          drawInterface()
 //          selectSpace()

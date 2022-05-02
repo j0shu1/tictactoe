@@ -20,7 +20,7 @@
 // interface sample:
 //          1|2|3    1|2|3     O|2|3    O|2|3    O|O|3      
 //          4|5|6    4|5|6     4|5|6    4|5|6    4|5|6
-//          7|8|9    7|X|8     7|X|8    X|X|8    X|X|X       "Player 1 wins!"
+//          7|8|9    7|X|9     7|X|9    X|X|9    X|X|X       "Player 1 wins!"
 class Game {
     static void Main()
     {
